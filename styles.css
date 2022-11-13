@@ -1,0 +1,42 @@
+main{
+  margin-left: 320px;
+  width: 40%;
+  border: 5px solid salmon;
+  padding: 20px;
+  padding-left: 100px;
+}
+#unordered{
+    background-color: mediumaquamarine;
+    max-width: 50%;
+}
+.the-list{
+    background-color: blueviolet;
+}
+li.babylist{
+    list-style: disc;
+}
+#list1{
+    background-color: antiquewhite;
+}
+#list2{
+    background-color: rgb(231, 47, 47);
+}
+#list3{
+    background-color: mediumaquamarine;
+}
+#list4{
+    background-color: rgb(238, 224, 224);
+}
+#list5{
+    background-color: goldenrod;
+}
+#list6{
+    background-color: mediumvioletred;
+}
+#list7{
+    background-color: rgb(146, 67, 11);
+}
+#ordered{
+    background-color: darkslateblue;
+    max-width: 50%;
+}
